@@ -1,0 +1,6 @@
+aiogram>=3.0.0
+aiosqlite
+aiohttp
+matplotlib
+aiogram-stars
+flask
